@@ -1,0 +1,4 @@
+node_modules
+.env
+reported.json
+npm-debug.log
